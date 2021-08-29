@@ -1,10 +1,4 @@
 # Welcome, I am Toni Diep! 👩🏻‍🏫
-<style>
-body {background-color: white;}
-h1   {color: black;}
-p    {color: purple;}
-</style>
-
 <p>Pronouns: her/she</p>
 As a Full Stack Software Engineer graduate from the Flatiron School in New York City, during a pandemic 😷, I am looking forward to collaborative opportunities with project building and study sessions.
 
