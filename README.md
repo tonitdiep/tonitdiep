@@ -1,6 +1,4 @@
-# Welcome, I am Toni Diep! 👩🏻‍🏫
-
-<p>Pronouns: her/she</p>
+# Welcome, I am Toni Diep! 👩🏻‍🏫 ## Pronouns: her/she
 <h2>As a Full Stack Software Engineer graduate from the Flatiron School in New York City, during a pandemic 😷, I am looking forward to collaborative opportunities with project building and study sessions.</h2>
 <br>
 
