@@ -1,6 +1,6 @@
 # Welcome, I am Toni Diep! 👩🏻‍🏫
 <p>Pronouns: her/she</p>
-As a Full Stack Software Engineer graduate from the Flatiron School in New York City, during a pandemic 😷, I am looking forward to collaborative opportunities with project building and study sessions.
+As a Full Stack Software Engineer graduate from the Flatiron School in New York City, during a pandemic 😷, I am looking forward to collaborative opportunities with project building and study sessions.<br>
 
 
 ✍🏼 Currently, I am actively studying 
