@@ -21,7 +21,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonitdiep&layout=compact&theme=radical)](https://github.com/tonitdiep/github-readme-stats)
 
-<h2> :leaves: Let's Connect Here</h2>
+<h2>:leaves: Let's Connect Here</h2>
 
+[LinkedIn](https://www.linkedin.com/in/tonitdiep/) |
 [Medium](https://tonitdiep.medium.com/) |
-[LinkedIn](https://www.linkedin.com/in/tonitdiep/)
+[Twitter](https://twitter.com/tonitdiep)
