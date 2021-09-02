@@ -16,4 +16,4 @@
 
 
 <h2> Let's Connect Here:</h2>
-![Medium](https://tonitdiep.medium.com/)
+[Medium](https://tonitdiep.medium.com/)
