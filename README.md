@@ -1,6 +1,6 @@
 # Welcome, I am Toni (her/she)! 👩🏻‍🏫 
 
-<h2>As a Full Stack Software Engineer graduate from the Flatiron School in New York City, I am looking forward to collaborative opportunities with project builds and study sessions.</h2>
+<h3>As a Full Stack Software Engineer graduate from the Flatiron School in New York City, I am looking forward to collaborative opportunities with project builds and study sessions.</h3>
 <br>
 
 ✍🏼 Currently, I am cultivating deeper understanding of,
