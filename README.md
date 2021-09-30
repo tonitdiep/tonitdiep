@@ -3,10 +3,10 @@
 <h3>As a Full Stack Software Engineer graduate from the Flatiron School in New York City, I am looking forward to collaborative opportunities with project builds and study sessions.</h3>
 <br>
 
-✍🏼 Currently, I am cultivating deeper understanding of,
+✍🏼 Currently, I am cultivating deeper understanding in the following areas:
 - JavaScript fundamentals (open to recommendations)
 - [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-- Study habits, self-care and time management
+- Fun fact: cultivating effective study habits, time management, and self-care
 <br>
 
 
