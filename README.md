@@ -4,10 +4,10 @@
 <br>
 
 ✍🏼 CURRENTLY, I am cultivating deeper understanding in the following areas:
-- JavaScript fundamentals (open to recommendations)
-- [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-- Attendees of Discord's algo club and NYC Coders (via Meetup's)
-- Fun fact: cultivating effective study habits, time management, and self-care
+- JavaScript fundamentals (open to recommendations);
+- [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/);
+- Attendees of Discord's algo club and NYC Coders (via Meetup's);
+- Fun fact: cultivating effective study habits, time management, and self-care.
 <br>
 
 
