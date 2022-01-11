@@ -7,7 +7,9 @@
 - JavaScript fundamentals (open to recommendations);
 - [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/);
 - Attendees of Discord's algo club and NYC Coders (via Meetup's);
-- Fun fact: cultivating effective study habits, time management, and self-care.
+- vanilla JavaScript code along's;
+- Fun fact: coffee and tea sipper, cultivating effective study habits, time management, and self-care;
+- 2022 Mantra is gratitude, discernment, and perspective in the midst of chaos and retrogrades. 
 <br>
 
 
