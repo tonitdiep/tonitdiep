@@ -5,9 +5,9 @@
 
 ✍🏼 CURRENTLY, I am cultivating deeper understanding in the following areas:
 - JavaScript fundamentals (open to recommendations);
-- Andrei Neagoi, [JavaScript: The Advanced Concepts (2022 Update)] (https://www.udemy.com/share/101Xak3@dMl-NFPbm8_C0HauszKM_18lSorUYcpA-AW3S2pdP93Q4GAg13ALd0y9zDCgop7jJw==/);
+- Andrei Neagoi, [JavaScript: The Advanced Concepts (2022 Update)](https://www.udemy.com/share/101Xak3@dMl-NFPbm8_C0HauszKM_18lSorUYcpA-AW3S2pdP93Q4GAg13ALd0y9zDCgop7jJw==/);
 - Andrei Neagoie, [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/);
-- Colt Steele, [JavaScript Algorithms and Data Structures Masterclass] (https://www.udemy.com/share/101XY23@JfxnkRr8_bREgUnJiQd8V3xxIfzEBRxT6K5ahkAXonQWZnVT-MfhIlY_ElUa2l282Q==/);
+- Colt Steele, [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/share/101XY23@JfxnkRr8_bREgUnJiQd8V3xxIfzEBRxT6K5ahkAXonQWZnVT-MfhIlY_ElUa2l282Q==/);
 - Attendees of Discord's algo club and NYC Coders (via Meetup's);
 - vanilla JavaScript code along's;
 - Fun fact: coffee and tea sipper, cultivating effective study habits, time management, and self-care;
